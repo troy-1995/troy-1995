@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @troy-1995
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on anything
 - 📫 You can reach me on here
 
