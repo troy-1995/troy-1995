@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @troy-1995
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and data analysis
 - 🌱 I’m currently learning GraphQL
 - 💞️ I’m looking to collaborate on anything
 - 📫 You can reach me on here
